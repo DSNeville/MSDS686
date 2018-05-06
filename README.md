@@ -18,4 +18,4 @@ Once you get those things together, you will also need to set your paths.
 
 Some of the results:
 
-![alt text](https://github.com/DSNeville/MSDS686/blob/master/Results.png
+![alt text](https://github.com/DSNeville/MSDS686/blob/master/Results.png)
