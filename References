@@ -1,0 +1,18 @@
+https://github.com/alexgkendall/SegNet-Tutorial
+
+https://github.com/0bserver07/Keras-SegNet-Basic
+
+http://mi.eng.cam.ac.uk/research/projects/VideoRec/CamVid/
+
+(1)
+Segmentation and Recognition Using Structure from Motion Point Clouds, ECCV 2008 (pdf)
+Brostow, Shotton, Fauqueur, Cipolla (bibtex)
+
+(2)
+Semantic Object Classes in Video: A High-Definition Ground Truth Database (pdf)
+Pattern Recognition Letters (to appear)
+Brostow, Fauqueur, Cipolla (bibtex)
+
+https://deeplearning4j.org/generative-adversarial-network
+
+https://github.com/eriklindernoren/Keras-GAN/blob/master/ccgan/ccgan.py
